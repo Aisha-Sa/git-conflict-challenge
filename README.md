@@ -1,1 +1,1 @@
-# git-conflict-challenge
+#  Ceci est une modification en ligne
