@@ -1,1 +1,2 @@
-# git-conflict-challenge
+# Ceci est une modification locale du README.md 
+
